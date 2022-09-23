@@ -15,7 +15,7 @@ Task 2 – Create an environment
 
 Task 3 -Study how the agents will work. 
 
-##Explore the existing Simulators
+## Explore the existing Simulators
 
 I read multiple articles available on the web and the most frequently discussed simulators were Webots and ARGoS. Webots was used for a single robot whereas ARGoS was used for swarm of robots and how they interact with each other, the problem faced with ARGoS  was that it runs on Linux and Mac only; I tried using virtual VM box but it made the machine really slow and difficult to deal with. 
 
